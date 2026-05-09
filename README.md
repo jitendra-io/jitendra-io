@@ -3,16 +3,16 @@
 <h3 align="center">A passionate developer crafting innovative solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Android+%26+Java+Developer;Python+Enthusiast;React+%26+Web+Developer;Building+Smart+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Node.js+%26+Backend+Developer;Python+Enthusiast;React+%26+Vite+Developer;Building+Smart+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Android Remote Control Systems**, **Gesture-Based Visualizers**, and **Web Applications (AgriFlow)**.
-- 🌱 I’m currently exploring **Advanced Computer Vision (MediaPipe/OpenCV)** and **System Automation**.
-- 💡 My favorite languages/frameworks are **Python, Java, React, JavaScript, and HTML/CSS**.
+- 🔭 I’m currently working on **Full-Stack Web Applications**, **Gesture-Based Visualizers**, and **Backend Systems**.
+- 🌱 I’m currently exploring **Advanced Node.js Architecture**, **Vite Performance Optimization**, and **System Automation**.
+- 💡 My favorite languages/frameworks are **Python, Node.js, React, JavaScript, and HTML/CSS**.
 - 🎯 I love building tools that solve real-world problems and creating engaging user experiences.
 - 📫 How to reach me: You can explore my repositories and contact me here!
 
@@ -22,25 +22,25 @@
 
 **Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Frameworks & Libraries:**
+**Frameworks & Backend:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 **Tools & Platforms:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -48,11 +48,10 @@
 ### 🚀 Featured Projects
 
 - **[Minded_Reality](https://github.com/YourJITENDRA/Minded_Reality):** Extracting images from sources by providing image details using Python.
+- **AgriFlow:** A robust React and Vite-based web application.
 - **Gesture Controlled Visualizer:** Interactive Python application using webcam-based hand tracking to generate real-time visual patterns and animations.
-- **AgriFlow:** A robust React-based web application.
-- **Android Remote Control System:** Cross-platform remote control system managing an Android device from a laptop using Java, Python, and ADB.
 - **[Dice_Roller](https://github.com/YourJITENDRA/Dice_Roller):** A Python simulation that randomly rolls dice like a real one.
-- **Task Tracker Application:** Java-based priority tracker featuring CRUD operations and data filtering built with Eclipse.
+- **Node.js Backend Solutions:** Developing scalable APIs and server-side applications using Node.js and Express.
 
 ---
 
