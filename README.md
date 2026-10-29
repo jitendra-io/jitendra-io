@@ -1,19 +1,19 @@
-<h1 align="center">Hi there, I'm Jitendra Kumar Mishra</h1>
+<h1 align="center">Hi there, I am Jitendra Kumar Mishra</h1>
 
-<h3 align="center">Full-Stack Web, Backend & AI Systems Developer</h3>
+<h3 align="center">Full-Stack Web, Backend, and AI Systems Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Node.js+%26+Backend+Engineer;Python+%26+AI+Systems+Builder;React+%26+Vite+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Node.js+%26+Backend+Engineer;Python+%26+AI+Systems+Builder;React+%26+Vite+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-- Full-Stack Software Developer focused on scalable web applications, microservices, and AI desktop tooling.
-- Core focus on clean architecture, performance optimization, system design, and responsive user experiences.
-- **Primary Tech Stack:** JavaScript, Node.js, Express, React, Python, MySQL, Redis, and Docker.
-- Experienced in building cross-platform desktop shells, REST APIs, real-time WebRTC communications, and cloud workflows.
+- Full-Stack Software Developer focused on scalable web applications, robust backend microservices, and AI desktop tooling.
+- Core focus on clean architecture, performance optimization, and responsive user experiences.
+- Primary programming languages and tools: JavaScript, Python, Node.js, React, Express, and Firebase.
+- Experienced in building cross-platform desktop shells, REST APIs, and automated cloud workflows.
 
 ---
 
@@ -30,20 +30,17 @@
 **Frameworks & Backend:**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 </p>
 
 **Databases & Cloud:**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **Tools & Workflow:**
@@ -57,31 +54,29 @@
 
 ### Featured Repositories
 
-- **[Sequ Store](https://github.com/YourJITENDRA/Sequ-Store):** App distribution platform featuring custom authentication routes, automated APK parsing, BullMQ background syncing, and Redis counters.
-- **[Gold AI](https://github.com/YourJITENDRA/Gold-AI):** Cyberpunk HUD desktop AI assistant featuring neural voice interactions, vision reasoning, intent execution, and real-time hardware telemetry.
-- **[Upper Contact](https://github.com/YourJITENDRA/Upper-Contact):** Real-time calling and contact platform incorporating WebRTC signaling, WebSockets, and telecom integration.
-- **[Portfolio-JKM](https://github.com/YourJITENDRA/Portfolio-JKM):** Personal developer portfolio and full-stack contact dispatch system.
+- **[Upper Store](https://github.com/jitendra-io/Upper-Store):** Digital marketplace and software distribution platform built with React 19, Vite, Node.js, Express, and Firebase Firestore.
+- **[Gold AI](https://github.com/jitendra-io/Gold-AI):** Cyberpunk HUD desktop AI assistant with neural voice conversation, vision reasoning, intent execution, and live hardware telemetry.
+- **[Portfolio-JKM](https://github.com/jitendra-io/Portfolio-JKM):** Personal developer portfolio and full-stack contact dispatch system.
+- **[Minded-Reality](https://github.com/jitendra-io/Minded-Reality):** Computer vision and media intelligence system.
+- **[Upper-Player](https://github.com/jitendra-io/Upper-Player):** Custom desktop media playback platform.
 
 ---
 
 ### GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/YourJITENDRA">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=YourJITENDRA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YourJITENDRA&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/jitendra-io">
+    <img src="https://github-readme-stats.vercel.app/api?username=jitendra-io&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-io&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YourJITENDRA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourJITENDRA&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/jitendra-io">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-io&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
-### Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourJITENDRA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendramis-hra/)
+Connect with me: [GitHub Profile](https://github.com/jitendra-io) | [LinkedIn](https://www.linkedin.com/in/jitendramis-hra/)
